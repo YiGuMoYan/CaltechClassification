@@ -1,0 +1,21 @@
+{
+  "input_size": [
+    3,
+    64,
+    64
+  ],
+  "class_dim": 5,
+  "src_path": "E:\\Python\\CaltechClassification\\data\\dataset.zip",
+  "target_path": "E:\\Python\\CaltechClassification\\data\\dataset",
+  "image_path": "E:\\Python\\CaltechClassification\\data\\dataset\\dataset\\images\\",
+  "train_list_path": "E:\\Python\\CaltechClassification\\data\\dataset\\train.txt",
+  "eval_list_path": "E:\\Python\\CaltechClassification\\data\\dataset\\eval.txt",
+  "readme_path": "E:\\Python\\CaltechClassification\\data\\dataset\\readme.json",
+  "label_dict": {
+  },
+  "num_epochs": 2,
+  "train_batch_size": 64,
+  "learning_strategy": {
+    "lr": 0.01
+  }
+}
