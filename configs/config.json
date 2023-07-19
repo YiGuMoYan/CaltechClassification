@@ -10,6 +10,7 @@
   "image_path": "E:\\Python\\CaltechClassification\\data\\dataset\\dataset\\images\\",
   "train_list_path": "E:\\Python\\CaltechClassification\\data\\dataset\\train.txt",
   "eval_list_path": "E:\\Python\\CaltechClassification\\data\\dataset\\eval.txt",
+  "class_list_path": "E:\\Python\\CaltechClassification\\data\\dataset\\dataset\\class.txt",
   "readme_path": "E:\\Python\\CaltechClassification\\data\\dataset\\readme.json",
   "label_dict": {
   },

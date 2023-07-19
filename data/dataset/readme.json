@@ -1,0 +1,515 @@
+{
+    "all_class_images": 7999,
+    "class_detail": [
+        {
+            "class_label": "0",
+            "class_name": "cougar_body",
+            "class_train_images": 39
+        },
+        {
+            "class_label": "1",
+            "class_name": "windsor_chair",
+            "class_train_images": 48
+        },
+        {
+            "class_label": "2",
+            "class_name": "emu",
+            "class_train_images": 46
+        },
+        {
+            "class_label": "3",
+            "class_name": "revolver",
+            "class_train_images": 67
+        },
+        {
+            "class_label": "4",
+            "class_name": "airplanes",
+            "class_train_images": 706
+        },
+        {
+            "class_label": "5",
+            "class_name": "Motorbikes",
+            "class_train_images": 688
+        },
+        {
+            "class_label": "6",
+            "class_name": "starfish",
+            "class_train_images": 76
+        },
+        {
+            "class_label": "7",
+            "class_name": "yin_yang",
+            "class_train_images": 52
+        },
+        {
+            "class_label": "8",
+            "class_name": "rooster",
+            "class_train_images": 44
+        },
+        {
+            "class_label": "9",
+            "class_name": "Leopards",
+            "class_train_images": 176
+        },
+        {
+            "class_label": "10",
+            "class_name": "stapler",
+            "class_train_images": 42
+        },
+        {
+            "class_label": "11",
+            "class_name": "snoopy",
+            "class_train_images": 31
+        },
+        {
+            "class_label": "12",
+            "class_name": "dolphin",
+            "class_train_images": 58
+        },
+        {
+            "class_label": "13",
+            "class_name": "sea_horse",
+            "class_train_images": 52
+        },
+        {
+            "class_label": "14",
+            "class_name": "soccer_ball",
+            "class_train_images": 56
+        },
+        {
+            "class_label": "15",
+            "class_name": "ewer",
+            "class_train_images": 68
+        },
+        {
+            "class_label": "16",
+            "class_name": "Faces_easy",
+            "class_train_images": 384
+        },
+        {
+            "class_label": "17",
+            "class_name": "hawksbill",
+            "class_train_images": 86
+        },
+        {
+            "class_label": "18",
+            "class_name": "garfield",
+            "class_train_images": 30
+        },
+        {
+            "class_label": "19",
+            "class_name": "stop_sign",
+            "class_train_images": 61
+        },
+        {
+            "class_label": "20",
+            "class_name": "sunflower",
+            "class_train_images": 74
+        },
+        {
+            "class_label": "21",
+            "class_name": "trilobite",
+            "class_train_images": 74
+        },
+        {
+            "class_label": "22",
+            "class_name": "wrench",
+            "class_train_images": 35
+        },
+        {
+            "class_label": "23",
+            "class_name": "cannon",
+            "class_train_images": 42
+        },
+        {
+            "class_label": "24",
+            "class_name": "pizza",
+            "class_train_images": 44
+        },
+        {
+            "class_label": "25",
+            "class_name": "schooner",
+            "class_train_images": 50
+        },
+        {
+            "class_label": "26",
+            "class_name": "wild_cat",
+            "class_train_images": 28
+        },
+        {
+            "class_label": "27",
+            "class_name": "crocodile_head",
+            "class_train_images": 42
+        },
+        {
+            "class_label": "28",
+            "class_name": "butterfly",
+            "class_train_images": 81
+        },
+        {
+            "class_label": "29",
+            "class_name": "scissors",
+            "class_train_images": 35
+        },
+        {
+            "class_label": "30",
+            "class_name": "chair",
+            "class_train_images": 54
+        },
+        {
+            "class_label": "31",
+            "class_name": "pigeon",
+            "class_train_images": 40
+        },
+        {
+            "class_label": "32",
+            "class_name": "BACKGROUND_Google",
+            "class_train_images": 415
+        },
+        {
+            "class_label": "33",
+            "class_name": "euphonium",
+            "class_train_images": 61
+        },
+        {
+            "class_label": "34",
+            "class_name": "dalmatian",
+            "class_train_images": 59
+        },
+        {
+            "class_label": "35",
+            "class_name": "Faces",
+            "class_train_images": 379
+        },
+        {
+            "class_label": "36",
+            "class_name": "watch",
+            "class_train_images": 207
+        },
+        {
+            "class_label": "37",
+            "class_name": "bonsai",
+            "class_train_images": 113
+        },
+        {
+            "class_label": "38",
+            "class_name": "pyramid",
+            "class_train_images": 47
+        },
+        {
+            "class_label": "39",
+            "class_name": "gramophone",
+            "class_train_images": 41
+        },
+        {
+            "class_label": "40",
+            "class_name": "beaver",
+            "class_train_images": 41
+        },
+        {
+            "class_label": "41",
+            "class_name": "car_side",
+            "class_train_images": 108
+        },
+        {
+            "class_label": "42",
+            "class_name": "hedgehog",
+            "class_train_images": 41
+        },
+        {
+            "class_label": "43",
+            "class_name": "binocular",
+            "class_train_images": 28
+        },
+        {
+            "class_label": "44",
+            "class_name": "chandelier",
+            "class_train_images": 92
+        },
+        {
+            "class_label": "45",
+            "class_name": "ketch",
+            "class_train_images": 105
+        },
+        {
+            "class_label": "46",
+            "class_name": "minaret",
+            "class_train_images": 65
+        },
+        {
+            "class_label": "47",
+            "class_name": "saxophone",
+            "class_train_images": 33
+        },
+        {
+            "class_label": "48",
+            "class_name": "lamp",
+            "class_train_images": 56
+        },
+        {
+            "class_label": "49",
+            "class_name": "water_lilly",
+            "class_train_images": 32
+        },
+        {
+            "class_label": "50",
+            "class_name": "mayfly",
+            "class_train_images": 35
+        },
+        {
+            "class_label": "51",
+            "class_name": "lobster",
+            "class_train_images": 34
+        },
+        {
+            "class_label": "52",
+            "class_name": "cup",
+            "class_train_images": 49
+        },
+        {
+            "class_label": "53",
+            "class_name": "joshua_tree",
+            "class_train_images": 58
+        },
+        {
+            "class_label": "54",
+            "class_name": "helicopter",
+            "class_train_images": 81
+        },
+        {
+            "class_label": "55",
+            "class_name": "cougar_face",
+            "class_train_images": 65
+        },
+        {
+            "class_label": "56",
+            "class_name": "menorah",
+            "class_train_images": 77
+        },
+        {
+            "class_label": "57",
+            "class_name": "kangaroo",
+            "class_train_images": 72
+        },
+        {
+            "class_label": "58",
+            "class_name": "bass",
+            "class_train_images": 45
+        },
+        {
+            "class_label": "59",
+            "class_name": "flamingo",
+            "class_train_images": 60
+        },
+        {
+            "class_label": "60",
+            "class_name": "ceiling_fan",
+            "class_train_images": 41
+        },
+        {
+            "class_label": "61",
+            "class_name": "dragonfly",
+            "class_train_images": 56
+        },
+        {
+            "class_label": "62",
+            "class_name": "ibis",
+            "class_train_images": 71
+        },
+        {
+            "class_label": "63",
+            "class_name": "platypus",
+            "class_train_images": 31
+        },
+        {
+            "class_label": "64",
+            "class_name": "okapi",
+            "class_train_images": 36
+        },
+        {
+            "class_label": "65",
+            "class_name": "laptop",
+            "class_train_images": 71
+        },
+        {
+            "class_label": "66",
+            "class_name": "ferry",
+            "class_train_images": 59
+        },
+        {
+            "class_label": "67",
+            "class_name": "mandolin",
+            "class_train_images": 40
+        },
+        {
+            "class_label": "68",
+            "class_name": "accordion",
+            "class_train_images": 48
+        },
+        {
+            "class_label": "69",
+            "class_name": "grand_piano",
+            "class_train_images": 88
+        },
+        {
+            "class_label": "70",
+            "class_name": "crab",
+            "class_train_images": 63
+        },
+        {
+            "class_label": "71",
+            "class_name": "electric_guitar",
+            "class_train_images": 64
+        },
+        {
+            "class_label": "72",
+            "class_name": "gerenuk",
+            "class_train_images": 31
+        },
+        {
+            "class_label": "73",
+            "class_name": "umbrella",
+            "class_train_images": 66
+        },
+        {
+            "class_label": "74",
+            "class_name": "buddha",
+            "class_train_images": 72
+        },
+        {
+            "class_label": "75",
+            "class_name": "brain",
+            "class_train_images": 85
+        },
+        {
+            "class_label": "76",
+            "class_name": "llama",
+            "class_train_images": 69
+        },
+        {
+            "class_label": "77",
+            "class_name": "crayfish",
+            "class_train_images": 65
+        },
+        {
+            "class_label": "78",
+            "class_name": "brontosaurus",
+            "class_train_images": 39
+        },
+        {
+            "class_label": "79",
+            "class_name": "nautilus",
+            "class_train_images": 48
+        },
+        {
+            "class_label": "80",
+            "class_name": "ant",
+            "class_train_images": 37
+        },
+        {
+            "class_label": "81",
+            "class_name": "barrel",
+            "class_train_images": 39
+        },
+        {
+            "class_label": "82",
+            "class_name": "panda",
+            "class_train_images": 35
+        },
+        {
+            "class_label": "83",
+            "class_name": "scorpion",
+            "class_train_images": 73
+        },
+        {
+            "class_label": "84",
+            "class_name": "wheelchair",
+            "class_train_images": 53
+        },
+        {
+            "class_label": "85",
+            "class_name": "lotus",
+            "class_train_images": 62
+        },
+        {
+            "class_label": "86",
+            "class_name": "crocodile",
+            "class_train_images": 45
+        },
+        {
+            "class_label": "87",
+            "class_name": "anchor",
+            "class_train_images": 37
+        },
+        {
+            "class_label": "88",
+            "class_name": "cellphone",
+            "class_train_images": 52
+        },
+        {
+            "class_label": "89",
+            "class_name": "flamingo_head",
+            "class_train_images": 40
+        },
+        {
+            "class_label": "90",
+            "class_name": "octopus",
+            "class_train_images": 26
+        },
+        {
+            "class_label": "91",
+            "class_name": "camera",
+            "class_train_images": 44
+        },
+        {
+            "class_label": "92",
+            "class_name": "elephant",
+            "class_train_images": 49
+        },
+        {
+            "class_label": "93",
+            "class_name": "inline_skate",
+            "class_train_images": 26
+        },
+        {
+            "class_label": "94",
+            "class_name": "stegosaurus",
+            "class_train_images": 48
+        },
+        {
+            "class_label": "95",
+            "class_name": "strawberry",
+            "class_train_images": 29
+        },
+        {
+            "class_label": "96",
+            "class_name": "tick",
+            "class_train_images": 42
+        },
+        {
+            "class_label": "97",
+            "class_name": "rhino",
+            "class_train_images": 56
+        },
+        {
+            "class_label": "98",
+            "class_name": "headphone",
+            "class_train_images": 38
+        },
+        {
+            "class_label": "99",
+            "class_name": "pagoda",
+            "class_train_images": 43
+        },
+        {
+            "class_label": "100",
+            "class_name": "dollar_bill",
+            "class_train_images": 47
+        },
+        {
+            "class_label": "101",
+            "class_name": "metronome",
+            "class_train_images": 27
+        }
+    ]
+}
