@@ -6,7 +6,7 @@
   ],
   "class_dim": 5,
   "src_path": "E:\\Python\\CaltechClassification\\data\\dataset.zip",
-  "target_path": "E:\\Python\\CaltechClassification\\data\\dataset",
+  "target_path": "E:\\Python\\CaltechClassification\\data\\dataset\\",
   "image_path": "E:\\Python\\CaltechClassification\\data\\dataset\\dataset\\images\\",
   "train_list_path": "E:\\Python\\CaltechClassification\\data\\dataset\\train.txt",
   "eval_list_path": "E:\\Python\\CaltechClassification\\data\\dataset\\eval.txt",
