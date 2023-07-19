@@ -88,6 +88,7 @@ def get_data_list(target_path, train_list_path, image_path, class_list_path, rea
     print("数据生成完成")
 
 
-# unzip_data(train_parameters["src_path"], train_parameters["target_path"])
-get_data_list(train_parameters["target_path"], train_parameters["train_list_path"], train_parameters["image_path"],
-              train_parameters["class_list_path"], train_parameters["readme_path"])
+if __name__ == "__main__":
+    unzip_data(train_parameters["src_path"], train_parameters["target_path"])
+    get_data_list(train_parameters["target_path"], train_parameters["train_list_path"], train_parameters["image_path"],
+                  train_parameters["class_list_path"], train_parameters["readme_path"])
