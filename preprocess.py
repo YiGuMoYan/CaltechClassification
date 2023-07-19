@@ -40,7 +40,7 @@ def get_data_list(target_path, train_list_path, image_path, class_list_path, rea
     # 标签类别
     class_detail = []
     # 训练集文本
-    train_data_list = open(target_path + "\\dataset\\train.txt", "r").readlines()
+    train_data_list = open(target_path + "dataset\\train.txt", "r").readlines()
     # 标签集
     class_data_list = open(class_list_path, "r").readlines()
     # 标签对应的图片数
@@ -74,7 +74,7 @@ def get_data_list(target_path, train_list_path, image_path, class_list_path, rea
         class_name = class_data.split("\t")[0]
         class_label = class_data.split("\t")[1].replace("\n", "")
         # 标签类别默认内容
-        class_detail_default = {"class_train_images": class_num[class_label], "class_label": class_label,
+        class_detail_default = {"class_train_images": class_num[class_label], "class_label": int(class_label),
                                 "class_name": class_name}
         class_detail.append(class_detail_default)
 

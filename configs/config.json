@@ -4,7 +4,7 @@
     64,
     64
   ],
-  "class_dim": 5,
+  "class_dim": 102,
   "src_path": "E:\\Python\\CaltechClassification\\data\\dataset.zip",
   "target_path": "E:\\Python\\CaltechClassification\\data\\dataset\\",
   "image_path": "E:\\Python\\CaltechClassification\\data\\dataset\\dataset\\images\\",
@@ -15,7 +15,7 @@
   "label_dict": {
   },
   "num_epochs": 2,
-  "train_batch_size": 64,
+  "train_batch_size": 32,
   "learning_strategy": {
     "lr": 0.01
   }

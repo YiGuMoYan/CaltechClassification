@@ -18,8 +18,6 @@ class caltech_model(paddle.nn.Layer):
         # 5 * 5
         self.pool3 = nn.MaxPool2D(kernel_size=2, stride=2)
         self.fc1 = nn.Linear(in_features=5 * 5 * 128, out_features=25)
-        self.relu1 = nn.ReLU()
-        self.fc2 = nn.Linear(in_features=25, out_features=5)
 
     def forward(self, input):
         x = self.conv1(input)
@@ -30,6 +28,4 @@ class caltech_model(paddle.nn.Layer):
         x = self.pool3(x)
         x = paddle.reshape(x, [-1, 5 * 5 * 128])
         x = self.fc1(x)
-        x = self.relu1()
-        x = self.fc2(x)
         return x

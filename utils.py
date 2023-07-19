@@ -22,7 +22,7 @@ class caltech_dataset(paddle.io.Dataset):
             with open(os.path.join(self.data_path, "train.txt"), "r", encoding="utf8") as f:
                 self.info = f.readlines()
             for image_info in self.info:
-                image_path, image_label = image_info.strip().strip("\t")
+                image_path, image_label = image_info.strip().split("\t")
                 self.image_paths.append(image_path)
                 self.labels.append(image_label)
         else:

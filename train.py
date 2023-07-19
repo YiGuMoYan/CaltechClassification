@@ -20,11 +20,11 @@ def train():
     for epoch in range(epochs_num):
         for batch_id, data in enumerate(train_dataloader):
             image = data[0]
+            print(image.shape)
             label = data[1]
-            image = image.filter(1)
             predict = model(image)
-            loss = cross_entropy(predict, image)
-            acc = paddle.metric.accuracy(predict, label)
+            loss =  (predict, label)
+            acc = paddle.metric.accuracy(predict, label.reshape([-1, 1]))
             loss.backward()
             opt.step()
             opt.clear_grad()
