@@ -1,3 +1,4 @@
 .idea
 data/dataset.zip
 data/dataset/dataset/images/*
+checkpoints/
